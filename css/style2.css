@@ -1,0 +1,96 @@
+body{
+  margin:0;
+  padding:0;  	
+}
+#container{
+  width:960px;
+  margin:0 auto;	
+}
+#header{
+  width:960px;
+  height:175px;
+  
+  background:#0F0;	
+}
+#logo{
+   width:250px;
+   height:175px;
+   float:left;
+   background:#003;	
+}
+#menu{
+	width:380px;
+	height:75px;
+	float:right;
+	margin-top:50px;
+	background:#03F;
+}
+#banner{
+   width:960px;
+   height:550px;
+   
+   background:#900;	
+}
+#section_1{
+   width:960px;
+   height:350px;
+   
+   background:#9C0;	
+}
+#col_1{
+   width:460px;
+   height:350px;
+   float:left;
+   
+   background:#FF0;	
+}
+#col_2{
+   width:460px;
+   height:350px;
+   float:right;
+   
+   background:#FF0;	
+}
+#space{
+	width:960px;
+	height:1px;
+	margin-top:50px;
+	margin-bottom:50px;
+	
+	background:#3F9;	
+}
+
+#section_2{
+   width:960px;
+   height:780px;
+   
+   background:#9C0;	
+}
+.produt{
+   width:960px;
+   height:250px;
+   margin-top:10px;
+   
+   background:#C60;	
+}
+#footer{
+   width:960px;
+   height:200px;
+   
+   background:#006;	
+}
+#text{
+  width:300px;
+  height:200px;
+  float:left;
+  
+  background:#0FF;	
+}
+#social_midia{
+  width:150px;
+  height:100px;
+  float:right;
+  margin-top:50px;
+  
+  background:#0FF;
+}
